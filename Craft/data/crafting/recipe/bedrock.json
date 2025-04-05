@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nOn",
+        "ONO",
+        "nOn"
+    ],
+    "key": {
+        "n": "minecraft:netherite_ingot",
+        "O": "minecraft:obsidian",
+        "N": "minecraft:nether_star"
+    },
+    "result": {
+        "id": "minecraft:bedrock",
+        "count": 1
+    },
+    "group": "Craft"
+}
