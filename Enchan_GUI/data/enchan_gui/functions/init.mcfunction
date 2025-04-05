@@ -1,0 +1,1 @@
+say Datapack successfully uploaded!
