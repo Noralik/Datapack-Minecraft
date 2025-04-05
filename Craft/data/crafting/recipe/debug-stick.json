@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "/NB",
+        " H "
+    ],
+    "key": {
+        "/": "minecraft:blaze_rod",
+        "N": "minecraft:nether_star",
+        "B": "minecraft:breeze_rod",
+        "H": "minecraft:stick"
+    },
+    "result": {
+        "id": "minecraft:debug_stick",
+        "count": 1
+    },
+    "group": "Craft"
+}
