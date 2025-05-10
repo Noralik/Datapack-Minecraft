@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        "PL#",
+        "LP "
+    ],
+    "key": {
+        "#": "minecraft:string",
+        "P": "minecraft:paper",
+        "L": "minecraft:leather"
+    },
+    "result": {
+        "id": "minecraft:name_tag",
+        "count": 1
+    },
+    "group": "Craft"
+}
